@@ -1,0 +1,27 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(1, 177, 64); /* Chroma key green */
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin: 50px;
+}
+
+#dateBox, #sliderContainer, #speedContainer {
+    margin-bottom: 20px;
+}
+
+input {
+    font-size: 20pt;
+    text-align: center;
+    width: 60px;
+    margin: 5px;
+}
+
+button {
+    font-size: 20pt;
+    padding: 10px 20px;
+    cursor: pointer;
+}
